@@ -12,24 +12,35 @@
 
 This Portfolio is a demonstration of various machine learning techniques. 
 
-## Project Options
+## My Selected Project Options
 
-*insert option descriptions below each item*
+GitHub Project Repo Setup 
 
 ### Supervised Learning Techniques
+Supervised Learning - Linear Regression 
+
+Supervised Learning - Classification using K-NN 
+
+### Unsupervised Learning Technique
+Unsupervised Learning - Clustering 
+
+
+
+
+
 1. [Mark Predictor](MarkPredictor/StudentCopy.ipynb) 
     
 2. [K-NN](KNN/KNN-Diabetes/Predict%20Diabetes.ipynb)
 
-### Unsupervised Learning Technique
 3. [K-Means](KMeans/KMeans.ipynb)
 
-### Reinforcement Learning
-4. [CartPole](CartPole/CartPole-v1.ipynb)
+
+
+
 
 ### Essay
-5. [Title 2: "Uncovering Hidden Patterns: Exploring Unsupervised Learning in Software 
-Engineering"](https://cgsacteduau.sharepoint.com/:w:/s/cgssharedfolders/EUXQQX9EqkJHjGtfgLm9FZUBhERSWiLO6QvOHTzJQBDhNg?e=xGetKJ)
+5. [Title 3: "Privacy in the Age of AI: Navigating the Ethical Dimensions of Machine
+Learning"](https://docs.google.com/document/d/1J7hhSJ1OWBq9a2J8f0o5pkzWT499kwpbYtpIyxPPnxs/edit?usp=sharing)
 
 
 ## Built With
