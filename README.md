@@ -10,18 +10,18 @@
 
 ## Overview
 
-This Portfolio is a demonstration of various machine learning techniques. 
+This Portfolio is a demonstration of various machine learning techniques. This collection of projects delves into the captivating realm of Machine Learning, to demonstrate my understanding of a wide range of both supervised, and unsupervised learning techniques. The Machine learning essay gives insight into the ethical realms of "privacy in the age of AI" while encapsulating the moral premises on which machine learning will move towards into the future.
 
-## My Selected Project Options
+# My Selected Project Options
 
-GitHub Project Repo Setup 
+#### GitHub Project Repo Setup 
 
-### Supervised Learning Techniques
+#### Supervised Learning Techniques
 Supervised Learning - Linear Regression 
 
 Supervised Learning - Classification using K-NN 
 
-### Unsupervised Learning Technique
+#### Unsupervised Learning Technique
 Unsupervised Learning - Clustering 
 
 
@@ -38,9 +38,15 @@ Unsupervised Learning - Clustering
 
 
 
-### Essay
-5. [Title 3: "Privacy in the Age of AI: Navigating the Ethical Dimensions of Machine
+#### Essay
+4. [Title 3: "Privacy in the Age of AI: Navigating the Ethical Dimensions of Machine
 Learning"](https://docs.google.com/document/d/1J7hhSJ1OWBq9a2J8f0o5pkzWT499kwpbYtpIyxPPnxs/edit?usp=sharing)
+
+## Machine Learning Essay References
+
+- [Artificial Intelligence: examples of ethical dilemmas](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases#:~:text=But%20there%20are%20many%20ethical,and%20privacy%20of%20court%20users)
+- [Implementing Machine Learning in Health Care — Addressing Ethical Challenges](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5962261/)
+- [Artificial Intelligence and Privacy](https://ovic.vic.gov.au/privacy/resources-for-organisations/artificial-intelligence-and-privacy-issues-and-challenges/)
 
 
 ## Built With
@@ -55,13 +61,4 @@ Learning"](https://docs.google.com/document/d/1J7hhSJ1OWBq9a2J8f0o5pkzWT499kwpbY
 
 
 
-## References For ML essay
-
-- [Artificial Intelligence: examples of ethical dilemmas](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases#:~:text=But%20there%20are%20many%20ethical,and%20privacy%20of%20court%20users)
-
-  
-- [Implementing Machine Learning in Health Care — Addressing Ethical Challenges](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5962261/)
-
-
-- [Artificial Intelligence and Privacy](https://ovic.vic.gov.au/privacy/resources-for-organisations/artificial-intelligence-and-privacy-issues-and-challenges/)
 
