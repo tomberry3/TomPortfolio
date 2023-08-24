@@ -43,21 +43,14 @@ Engineering"](https://cgsacteduau.sharepoint.com/:w:/s/cgssharedfolders/EUXQQX9E
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
-## Further Reading
 
-- [Introduction to AI - Course Guide](https://cgsacteduau.sharepoint.com/:w:/s/cgssharedfolders/EUlW1KFBKzJGskD936SUUCMBLgqp_OeB3nzkrVs3cELybA?e=lFQruw) - Draft Copy
-- [What is Machine Learning](https://www.mathworks.com/discovery/machine-learning.html)
-- [Understanding Machine Learning & Deep Learning](https://dltlabs.medium.com/understanding-machine-learning-deep-learning-f5aa95264d61)
-- [Q-Learning Algorithm](https://aleksandarhaber.com/q-learning-in-python-with-tests-in-cart-pole-openai-gym-environment-reinforcement-learning-tutorial/)
-- [Epsilon-Greedy Algorithm](https://www.geeksforgeeks.org/epsilon-greedy-algorithm-in-reinforcement-learning/)
+## References For ML essay
+
+- [Artificial Intelligence: examples of ethical dilemmas](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases#:~:text=But%20there%20are%20many%20ethical,and%20privacy%20of%20court%20users)
+
+  
+- [Implementing Machine Learning in Health Care — Addressing Ethical Challenges](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5962261/)
 
 
-## References
-
-- [Cart Pole Control Environment in OpenAI Gym](https://aleksandarhaber.com/cart-pole-control-environment-in-openai-gym-gymnasium-introduction-to-openai-gym/) - Aleksandar Haber
-- [Markdown Syntax](https://wilsonmar.github.io/markdown-text-for-github-from-html/) - Learn your md
-- [Markdown Badge List](https://github.com/Ileriayo/markdown-badges) - Style your md with a badge
-- [One Direction](https://www.youtube.com/watch?v=AsmHz9JCU4M) - Coding Music?
-- [Twent-One Pilots](https://www.youtube.com/watch?v=pXRviuL6vMY) - Getting better...
-- [Ultimate Jupyter NB Flexes](https://noteable.io/blog/jupyter-notebook-shortcuts-boost-productivity/#:~:text=The%20shortcut%20to%20add%20a,cell%2C%20use%20the%20shortcut%20B.) - Flex correctly
+- [Artificial Intelligence and Privacy](https://ovic.vic.gov.au/privacy/resources-for-organisations/artificial-intelligence-and-privacy-issues-and-challenges/)
 
