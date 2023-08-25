@@ -12,7 +12,7 @@
 
 ## Overview
 
-This Portfolio is a demonstration of various machine learning techniques. This collection of projects delves into the captivating realm of Machine Learning, to demonstrate my understanding of a wide range of both supervised, and unsupervised learning techniques. The Machine learning essay gives insight into the ethical realms of "privacy in the age of AI" while encapsulating the moral premises on which machine learning will move towards into the future.
+This Portfolio is a demonstration of various machine learning techniques. This collection of projects delves into the captivating realm of Machine Learning, to demonstrate my understanding of a wide range of both supervised, and unsupervised learning techniques. The Machine learning essay gives insight into the ethical realms of "privacy in the age of AI" while encapsulating the moral premises on which Machine Learning will move towards into the future.
 
 # My Selected Project Options
 
