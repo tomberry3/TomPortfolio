@@ -30,11 +30,11 @@ Unsupervised Learning - Clustering
 
 
 
-1. [Mark Predictor](MarkPredictor/StudentCopy.ipynb) 
+1. [Grade Predictor](GradePredictor) 
     
-2. [K-NN](KNN/KNN-Diabetes/Predict%20Diabetes.ipynb)
+2. [K-NN](KNN_DiabetiesPrediction)
 
-3. [K-Means](KMeans/KMeans.ipynb)
+3. [Linear Regression](LinearRegression)
 
 
 
