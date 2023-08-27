@@ -1,7 +1,5 @@
 # ML-Portfolio
 
-:w32
-
 ## Table of Contents
 
 - [Overview](#overview)
