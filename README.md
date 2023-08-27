@@ -5,19 +5,19 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Project Options](#project-options)
+- [Project Options](#my-selected-project-options)
 - [Built With](#built-with)
-- [Further Reading](#further-reading)
-- [References](#references)
+
 
 ## Overview
 
 This Portfolio is a demonstration of various machine learning techniques. This collection of projects delves into the captivating realm of Machine Learning, to demonstrate my understanding of a wide range of both supervised, and unsupervised learning techniques. The Machine learning essay gives insight into the ethical realms of "privacy in the age of AI" while encapsulating the moral premises on which Machine Learning will move towards into the future.
 
 # My Selected Project Options 
-#### Total 30 Marks (5, 5, 5, 5, 10)
+#### Total 30 Marks (5 Marks, 5 Marks, 5 Marks, 5 Marks, 10 Marks)
 
-#### 1. GitHub Project Repo Setup (5 Marks)
+#### GitHub Project Repo Setup 
+1. Successfully setting up Github Repository (5 Marks)
 
 #### Supervised Learning Techniques
 2. Supervised Learning - Linear Regression (5 Marks)
