@@ -1,8 +1,8 @@
 # Machine Learning
 
-## Python and Data Science
+## Grade Predictor
 
-### A Linear Regression Model
+### 
 
 Libraries Used:
 
