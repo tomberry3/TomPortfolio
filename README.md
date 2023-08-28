@@ -22,15 +22,19 @@ This Portfolio is a demonstration of various machine learning techniques. This c
 [Linear Regression](LinearRegression)
 
 3. Supervised Learning - Classification using K-NN (5 Marks)
-[K-NN](KNN_DiabetiesPrediction)
+[K-NN Diabeties Predictor](KNN_DiabetiesPrediction)
 
 #### Unsupervised Learning Technique
 4. Unsupervised Learning - Clustering  (5 Marks)
-[Grade Predictor](GradePredictor) 
+[K-Means Clustering](KMeans)
+
+#### Grade Predictor
+5. [Grade Predictor](GradePredictor)(0 Marks)
+
 
 
 #### Essay
-5. [Title 3: "Privacy in the Age of AI: Navigating the Ethical Dimensions of Machine 
+6. [Title 3: "Privacy in the Age of AI: Navigating the Ethical Dimensions of Machine 
 Learning"](https://docs.google.com/document/d/1J7hhSJ1OWBq9a2J8f0o5pkzWT499kwpbYtpIyxPPnxs/edit?usp=sharing) (10 Marks)
 
 ## Machine Learning Essay References
