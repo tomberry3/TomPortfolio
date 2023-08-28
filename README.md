@@ -29,7 +29,7 @@ This Portfolio is a demonstration of various machine learning techniques. This c
 [K-Means Clustering](KMeans)
 
 #### Grade Predictor
-5. [Grade Predictor](GradePredictor)(0 Marks)
+5. [Grade Predictor](GradePredictor) (0 Marks)
 
 
 
