@@ -12,7 +12,3 @@ Libraries Used:
 - [scikit-learn intro](https://www.youtube.com/watch?v=rvVkVsG49uU)
 - [scikit-learn tut](https://www.youtube.com/watch?v=M9Itm95JzL0)
 - [pickle](https://www.youtube.com/watch?v=6Q56r_fVqgw)
-
-
-References
-
